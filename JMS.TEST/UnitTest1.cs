@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace JMS_TEST
+namespace JMS.TEST
 {
     public class UnitTest1
     {
