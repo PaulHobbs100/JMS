@@ -3,7 +3,7 @@ Job Management System (JMS) is a professional solution for temporary staff place
 
 This solution is being migrated from an old VB6 application, taking the following steps:
 
-Stage #01: Build Minimum viable product(MVP) based on legacy functionlity
+Stage #01: Build Minimum viable product(MVP) based on legacy functionality
 
 1:Using code first create database matching legacy schema ............started<br>
 2:Use fluent syntax add links, indexes and attributes<br>
