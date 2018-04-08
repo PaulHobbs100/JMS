@@ -5,10 +5,10 @@ This solution is being migrated from an old VB6 application, taking the followin
 
 Stage #01: Build Minimum viable product(MVP) based on legacy functionlity
 
-1:Using code first create database matching legacy schema<br>
+1:Using code first create database matching legacy schema <span style="color:#ff0000">...Started</span><br>
 2:Use fluent syntax add links, indexes and attributes<br>
-3:Build views, stored procedure and triggers
-4:Enable migrations
-5:Implement business layer
-6:Implement simple user interface
-7:MVP available for stakeholder review
+3:Build views, stored procedure and triggers<br>
+4:Enable migrations<br>
+5:Implement business layer<br>
+6:Implement simple user interface<br>
+7:MVP available for stakeholder review<br>
