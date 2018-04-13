@@ -12,6 +12,6 @@ namespace JMS.DATA.Models
     class tlkpActionTypeIcons
     {
         public int fldActionTYpeID;
-        public byte[];
+        public byte[] fldIcon;
     }
 }
