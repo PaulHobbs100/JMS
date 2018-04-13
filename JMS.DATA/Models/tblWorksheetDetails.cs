@@ -14,6 +14,22 @@ namespace JMS.DATA.Models
         public string fldNotes;
         public decimal fldOvrChg;
         public decimal fldOvrPay;
-        // TODO rest of table
+        public int fldRateID;
+        public int fldStaffID;
+        public decimal fldStdChg;
+        public decimal fldStdPay;
+        public decimal fldSunChg;
+        public decimal fldSunPay;
+        public int fldWorksheetDetailID;
+        public int fldWorksheetHeaderID;
+        public DateTime fldLastUpdate;
+        public bool fldDeleted;
+        public bool fldTimesheetReceived;
+        public int fldTimesheetStatus;
+        public bool fldArchived;
+        public DateTime fldDateArchived;
+        public int fldBatchID;
+        public decimal fldOvr2Chg;
+        public decimal fldOvr2Pay;
     }
 }
